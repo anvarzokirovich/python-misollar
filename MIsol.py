@@ -10,6 +10,7 @@ if str(x)=="Mexmonov":
             odamlar.append(odam)
             print(f"Xush kelibsiz {odam}")
         if len(odamlar)==15:
+            print("Ro'yxat to'lganligi sababli ro'yxatga olish toxtatildi")
             break
             print("Ro'yxat to'lganligi sababli ro'yxatga olish toxtatildi")
 else:
