@@ -12,7 +12,6 @@ if str(x)=="Mexmonov":
         if len(odamlar)==15:
             print("Ro'yxat to'lganligi sababli ro'yxatga olish toxtatildi")
             break
-            print("Ro'yxat to'lganligi sababli ro'yxatga olish toxtatildi")
 else:
     print("Siz Anvar Mexmonovmassiz, dastur siz uchun ishlamaydi")
     
